@@ -19,3 +19,5 @@ The coin can be used for payments, to pay for services, to provide services to e
 
 
 The wallet address is your public account key. This is the same address for CRP and UUSD.
+
+You can get your first [coins for free by using a faucet.](https://get.crypton.click/)
