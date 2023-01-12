@@ -10,4 +10,4 @@ The project offers great opportunities to build services, chatbots and applicati
 
 Libraries for the most common programming languages were created for easy development, as well as examples of small projects.
 
-<figure><img src=".gitbook/assets/EsA7MzLXIAY_XsW.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/EsA7MzLXIAY_XsW.jpg" alt=""><figcaption></figcaption></figure>
