@@ -6,5 +6,6 @@
 * [Utopia API](utopia-api/README.md)
   * [How to enable API access](utopia-api/how-to-enable-api-access.md)
   * [Utopia Headless Mode](utopia-api/utopia-headless-mode.md)
-* [CRP.is API](crp.is-api.md)
-* [Examples of projects](examples-of-projects.md)
+  * [Examples of projects](utopia-api/examples-of-projects.md)
+* [CRP.is API](crp.is-api/README.md)
+  * [Example of projects](crp.is-api/example-of-projects.md)
