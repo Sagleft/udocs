@@ -9,3 +9,4 @@
   * [Examples of projects](examples-of-projects.md)
 * [CRP.is API](crp.is-api.md)
   * [Example of projects](crp.is-api/example-of-projects.md)
+* [How to earn in WEB 3.0](how-to-earn-in-web-3.0.md)
