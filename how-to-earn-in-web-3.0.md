@@ -17,3 +17,7 @@ We have [tools](crp.is-api/example-of-projects.md) for managing channels and wor
 
 Utopia is an ever-growing multilingual ecosystem. Utopia brings together crypto enthusiasts, developers, entrepreneurs, creatives and more.
 
+[Install Utopia ](./)right now for your platform.
+
+
+
