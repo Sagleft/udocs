@@ -15,6 +15,8 @@ We have [tools](crp.is-api/example-of-projects.md) for managing channels and wor
 * Collect maximum subscribers in a channel, and then sell this channel.
 * Promote your own projects.
 
+<figure><img src=".gitbook/assets/cat_notebook.jpg" alt=""><figcaption></figcaption></figure>
+
 Utopia is an ever-growing multilingual ecosystem. Utopia brings together crypto enthusiasts, developers, entrepreneurs, creatives and more.
 
 [Install Utopia ](./)right now for your platform.
