@@ -14,6 +14,7 @@ We have [tools](crp.is-api/example-of-projects.md) for managing channels and wor
 * Sell posts in the channel.
 * Collect maximum subscribers in a channel, and then sell this channel.
 * Promote your own projects.
+* [Join the content creator sponsorship program.](for-content-authors.md)
 
 <figure><img src=".gitbook/assets/cat_notebook.jpg" alt=""><figcaption></figcaption></figure>
 
